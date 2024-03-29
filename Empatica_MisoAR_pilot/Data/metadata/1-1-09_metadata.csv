@@ -1,0 +1,4 @@
+timestamp_unix,timestamp_iso,time_offset,timezone_location,mobile_platform,mobile_platform_version,mobile_app,mobile_app_version,algo_version,embrace_fw_version,rest_algo_version
+1709660028897,2024-03-05T17:33:48Z,-18000,America/New_York,,,,,,,v1.3.3
+1709660028898,2024-03-05T17:33:48Z,,,ios,,com.empatica.healthmonitor.lab,5.30.1,9.0.2,,
+1709660045720,2024-03-05T17:34:05Z,,,,,,,,4.24.3,
